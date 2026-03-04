@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "off",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "julia.environmentPath": "${workspaceFolder}",
+    "julia.NumThreads": "auto",
+    // using a standard Julia release; adjust if you install a custom channel
+    "julia.languageServerJuliaupChannel": "1.12.5",
+    "julia.executablePath": "julia +1.12.5",
+    "julia.juliaup.server": "https://juliahub.com/juliabin"
+}
