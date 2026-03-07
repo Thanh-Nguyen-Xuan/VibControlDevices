@@ -5,5 +5,7 @@
     "julia.NumThreads": "auto",
     "julia.languageServerJuliaupChannel": "dyad-2.2.0",
     "julia.executablePath": "julia +dyad-2.2.0",
-    "julia.juliaup.server": "https://juliahub.com/juliabin"
+    "julia.juliaup.server": "https://juliahub.com/juliabin",
+    "dyad-studio.autoInstantiate": true,
+    "dyad-studio.autoCompile": true
 }
